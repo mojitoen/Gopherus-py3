@@ -1,3 +1,7 @@
+# Notes
+Original tool made by https://github.com/tarunkant/Gopherus
+This is simply a changed version that will run on python3
+
 # Gopherus
 If you know a place which is SSRF vulnerable then, this tool will help you to generate Gopher payload for exploiting SSRF (Server Side Request Forgery) and gaining RCE (Remote Code Execution). And also it will help you to get the Reverse shell on the victim server. And for more 
 information you can get a blog on the same [Blog on Gopherus](https://spyclub.tech/2018/08/14/2018-08-14-blog-on-gopherus/)
